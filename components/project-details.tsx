@@ -5,7 +5,7 @@ const highlights: { id: string; content: ReactNode }[] = [
     id: 'strategy',
     content: (
       <>
-        Strategized for senior organization{' '}
+        Strategized for the senior organization{' '}
         <mark className="rounded-sm bg-[#c9a8f0] px-1 text-black">
           “San Ramon Valley Village”
         </mark>

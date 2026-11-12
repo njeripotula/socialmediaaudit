@@ -2,7 +2,7 @@ export function ProjectHero() {
   return (
     <header className="flex flex-col gap-6 text-black">
       <p className="text-sm font-medium uppercase tracking-widest text-black">
-        Project by Natasharaj Jeripotula
+        Project by: Natasharaj Jeripotula
       </p>
       <h1 className="text-balance text-4xl font-semibold tracking-tight md:text-6xl">
         Social Media Strategist
