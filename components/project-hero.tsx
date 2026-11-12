@@ -7,6 +7,7 @@ export function ProjectHero() {
       <h1 className="text-balance text-4xl font-semibold tracking-tight md:text-6xl">
         Social Media Strategist
       </h1>
+      <p className="-mt-3 text-base font-medium text-black">Now on GitHub</p>
       <p className="max-w-2xl text-pretty text-lg leading-relaxed text-black">
         Social Media Audit for the senior organization{' '}
         <mark className="rounded-sm bg-[#c9a8f0] px-1 font-medium text-black">
