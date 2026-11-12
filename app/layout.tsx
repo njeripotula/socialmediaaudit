@@ -8,7 +8,7 @@ const inter = Inter({ subsets: ['latin'], variable: '--font-inter' })
 export const metadata: Metadata = {
   title: 'Social Media Strategist — Natasharaj Jeripotula',
   description:
-    'A social media strategy project for the senior organization San Ramon Valley Village, by Natasharaj Jeripotula.',
+    'A social media audit project for the senior organization San Ramon Valley Village, by Natasharaj Jeripotula.',
   generator: 'v0.app',
   icons: {
     icon: [
