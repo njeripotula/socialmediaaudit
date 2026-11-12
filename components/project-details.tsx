@@ -26,7 +26,7 @@ export function ProjectDetails() {
   return (
     <section aria-labelledby="what-heading" className="flex flex-col gap-6">
       <h2 id="what-heading" className="text-2xl font-semibold tracking-tight text-black">
-        What it is
+        What it is:
       </h2>
       <ol className="flex flex-col divide-y divide-black/15 border-y border-black/15">
         {highlights.map((item, index) => (

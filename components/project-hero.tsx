@@ -8,7 +8,7 @@ export function ProjectHero() {
         Social Media Strategist
       </h1>
       <p className="max-w-2xl text-pretty text-lg leading-relaxed text-black">
-        Social media strategy for the senior organization{' '}
+        Social Media Audit for the senior organization{' '}
         <mark className="rounded-sm bg-[#c9a8f0] px-1 font-medium text-black">
           San Ramon Valley Village
         </mark>

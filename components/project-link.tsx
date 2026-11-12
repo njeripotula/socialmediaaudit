@@ -4,7 +4,7 @@ export function ProjectLink({ url }: { url: string }) {
   return (
     <section aria-labelledby="read-more-heading" className="flex flex-col gap-4">
       <h2 id="read-more-heading" className="text-2xl font-semibold tracking-tight">
-        Where to see it
+        Where to see it:
       </h2>
       <p className="leading-relaxed text-black">
         View the full portfolio on Adobe Express.
